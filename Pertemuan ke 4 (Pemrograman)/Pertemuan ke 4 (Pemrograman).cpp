@@ -10,3 +10,4 @@ void input()
 	cout << "Masukkan bilangan kedua = ";
 	cin >> bilB;
 }
+
